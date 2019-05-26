@@ -1,0 +1,6 @@
+[package]
+name = "kirinnya_math_utility"
+version = "0.1.0"
+authors = ["Kentei-Syunrai"]
+
+[dependencies]
